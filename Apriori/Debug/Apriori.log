@@ -1,0 +1,27 @@
+﻿  Apriori.cpp
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(35): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(41): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(47): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(83): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(92): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(126): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(127): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(138): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(142): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(185): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(220): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(226): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(304): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(327): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(335): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(336): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(348): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(349): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(365): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(372): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(373): warning C4018: '<': signed/unsigned mismatch
+e:\moje dokumenty\praca licencjacka\vc++\apriori\apriori\apriori.cpp(388): warning C4018: '<': signed/unsigned mismatch
+  Apriori.vcxproj -> E:\Moje Dokumenty\Praca licencjacka\VC++\FP-Growth\Debug\Apriori.exe
