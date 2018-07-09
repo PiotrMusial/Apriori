@@ -1,5 +1,5 @@
-#ifndef StringTokenizer_hpp
-#define StringTokenizer_hpp
+#ifndef STRINGTOKENIZER_HPP_
+#define STRINGTOKENIZER_HPP_
 
 #include <vector>
 #include <sstream>
@@ -23,5 +23,4 @@ public:
     int getSize();
 };
 
-#endif
-
+#endif /* STRINGTOKENIZER_HPP_ */
